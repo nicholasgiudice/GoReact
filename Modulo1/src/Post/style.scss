@@ -1,0 +1,25 @@
+.post {
+  width: 700px;
+  border: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #cecece;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.hr {
+  width: 100%;
+  background-color: #f3f3f3;
+  height: 2px;
+  margin: 20px 0px;
+}
+
+p {
+  font-weight: 500;
+  line-height: 20pt;
+  color: #727272;
+  font-family: sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+}
